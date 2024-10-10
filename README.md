@@ -1,7 +1,8 @@
 # 01-Connect Arduino IDE to Home Assistant by using WiFi and MQTT
 This project demonstrates how to connect an ESP8266 board to Home Assistant using Wi-Fi and MQTT. This setup allows you to monitor and control your devices in real-time, making your smart home more versatile and efficient.
 
-See also: <a href="https://youtu.be/gLkY_YygaAg" target="_blank"> My YouTube Tutorial</a>
+See also: <a href="https://youtu.be/gLkY_YygaAg" target="_blank"> My YouTube Tutorial</a> for WiFi and MQTT
+See: <a href="https://youtu.be/vI8LN8mpi_4" target="_blank"> My YouTube Tutorial</a> for the OTA (Over The Air Update) addon.
 
 
 ## Overview
