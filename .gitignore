@@ -1,1 +1,29 @@
 *secrets*.*
+
+# Lokale configuratie
+secrets.h
+secrets.hpp
+[Aa][Rr][Dd][Uu][Ii][Nn][Oo]_[Ss][Ee][Cc][Rr][Ee][Tt][Ss].h
+secrets.yaml
+secrets.json
+credentials.h
+credentials.json
+.env
+.env.*
+*.key
+*.pem
+*.pfx
+
+# Gebouwde firmware en video
+.pio/
+build/
+.cache/
+*.bin
+*.elf
+*.hex
+*.o
+*.mp4
+*.mov
+*.mkv
+*.wfp
+*.wfpbundle
